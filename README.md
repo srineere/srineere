@@ -5,7 +5,7 @@
 </br>
 
 ## Welcome to my humble abode in the Digital World..
-I'm currently a student pursuing my Bachelor of Technology in Computer Science Engineering from IIIT (Sri City) 🧑‍🎓. 
+Hello, I am Srineer Kaleri. I'm currently a student pursuing my Bachelor of Technology in Computer Science Engineering from IIIT (Sri City) 🧑‍🎓. 
 I'm passionate about learning new things which I find intriguing 📚. I am presently exploring the various tech stacks of web development and hope to become a master of atleast one 👨‍💻. 
 
 When I'm not developing and coding, you can find me playing games 🎮, watching Netflix 🍿, Sports ⚽ or listening to music 🎧.
