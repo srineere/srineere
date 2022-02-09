@@ -49,6 +49,13 @@ You can visit my Portfolio website <a href="https://srineer-kaleri.netlify.app/"
 	
  ```
  
+ <p align="center">
+<br>
+<a href="https://www.linkedin.com/in/srineer-kaleri-592456197/"><img src="https://img.shields.io/badge/Srineer-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:srineerkaleri@gmail.com?subject=Hello%20Srineer"><img src="https://img.shields.io/badge/Srineer-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+</p>
+
+
  <!---
  ## Link Tree
  ![Srineer's github stats](https://github-readme-stats.vercel.app/api?username=srineere&show_icons=true&hide=[%22issues%22]) 
