@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Ahoy, Srineer here! </h1>
-<img align="left"  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right"  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 ## Welcome to my humble abode in the Digital World..
 Hello, I am Srineer Kaleri. I'm currently a student pursuing my Bachelor of Technology in Computer Science Engineering from IIIT (Sri City) 🧑‍🎓. 
